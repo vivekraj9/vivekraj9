@@ -1,4 +1,5 @@
 <h1 align="left">Hello Developers!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<img src="https://i.kinja-img.com/gawker-media/image/upload/t_original/pwl9mwg0qu5vdagwstde.gif" width="350px" align="right"/>
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=100&color=D693F7&background=FF25D300&width=435&lines=Welcome+to+my+Github+profile;I'm+a+Computer+Science+Engineer;I'm+a+Web+Developer" alt="Typing SVG" /></a>
 </p>
